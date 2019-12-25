@@ -1,0 +1,19 @@
+Compiling C:\FPD26\MYSAL\TBL_PROC.PRG
+@ 24, 45 SAY cdow(date()) 'FoxFont',11
+Error in line 91: Unrecognized phrase/keyword in command.
+
+Compiling C:\FPD26\MYSAL\MNU_PROC.PRG
+CLEAR EVENTS
+Error in line 143: Unrecognized phrase/keyword in command.
+
+Compiling C:\FPD26\MYSAL\DTN_PROC.PRG
+@ 18,30 GET mItem  PI
+Error in line 7559: Unrecognized phrase/keyword in command.
+
+Compiling C:\FPD26\MYSAL\PST_PROC.PRG
+CLEAR EVENTS
+Error in line 520: Unrecognized phrase/keyword in command.
+
+Program C:\FPD26\MYSAL\LDGRPRT.PRG has the following errors:
+    Proc./Func. TOP-PRT1 - Undefined
+
